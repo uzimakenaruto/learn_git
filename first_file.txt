@@ -1,3 +1,6 @@
 This is my first time to use git,
 wish I could be a good programmer.
 fightting for tommorrow!
+
+
+The boy is promissed to be a programmer.
